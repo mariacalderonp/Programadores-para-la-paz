@@ -1,1 +1,11 @@
-
+Trabaje paralelo en entorno gráfico y en terminal.
+Ejemplos: 
+pwd (para ver donde estaba)
+ls (para ver nombres de archivos y carpetas y no repetir)
+mkdir semana2 (para crear la semana 2).
+Otros comandos usados:
+cd semana2
+touch preguntas-semana2.txt
+touch comandos-terminal.txt
+touch reflexion-semana2.txt
+Con el entorno gráfico fue más sencillo, pero hay que saber truquitos. Por ejemplo: para crear una carpeta hay que agregar "/" y asi GitHub reconoce que no es un archivo de texto y es una carepeta. 
