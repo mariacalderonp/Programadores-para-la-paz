@@ -1,0 +1,10 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas
+de manera organizada?
+RESPUESTA: Las APIs funcionan como "mensajeros" inteligentes entre las personas que reportan algo
+en el territorio y la base de datos que almacena esa información. Para las comunidades puede servir
+para estandarizar datos, por ejemplo cuando la información llega incompleta, repetida o desordenada.
+También, sirve para centralizar varios canales, porque permite conectar diferentes herramientas a la vez.
+Sirve para filtrar y controlar los duplicados, por ejemplo si varios reportan un mismo problema, la API
+permite que el sistema analice las coordenadas o palabras clave similares para agrupar las quejas en 
+un solo caso raíz. Y permite también la automatización de respuestas, ya que puede programarse para tomar
+decisiones lógicas inmediatas.
