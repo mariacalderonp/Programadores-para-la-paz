@@ -1,1 +1,9 @@
-
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+en mi experiencia en el desarrollo de este curso y del proyecto y actividades obligatorias para la culminación, utilicé la terminal y el entorno gráfico.
+Particularmente se me facilita mucho más utilizar el entorno gráfico, tal vez porque soy nativa digital. Sin embargo reconozco que: 
+Si bien el sistema de archivos de la terminal es mucho más práctico y rápido, el entorno gráfico utilizando recursos extras del equipo permite por ejemplo la creación de texto más rápido utilizando funciones modernas como el dictado por voz. tal cual como lo estoy haciendo con este archivo.
+Por otro lado la terminal permite crear, modificar, manejar, ver y estructurar lo mismo que en el entorno gráfico solo que mediante comandos lo cual es implícitamente menos demandante en términos de exigencia de los equipos para trabajo de largo aliento.
+Ambas tienen sus bondades, la programación requiere de reconocer memorizar y entender qué hacen los comandos mientras que el entorno gráfico permite de manera táctil realizar las tareas. 
+En este curso estaba más orientado a la resolución de preguntas, creación de textos, más que la producción de código por ello resulta práctico el uso de un entorno gráfico.
+De igual forma no se hace indispensable recordar reconocer o saber cuáles son todas las funciones o comandos que tiene github para la realización de tareas básicas.
+No obstante es fundamental para un programador conocerlas saberlas utilizar para la realización de proyectos complejos para la estructuración ahorro de tiempo de recursos de máquina y para tener el control en todo momento de la línea de flujo de trabajo y así poder prevenir y corregir errores puesto que en la terminal son claramente visibles a simple vista.
