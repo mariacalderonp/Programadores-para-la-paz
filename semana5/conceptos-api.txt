@@ -1,0 +1,17 @@
+Respuesta de conceptos API
+1- ¿qué hace esta ruta de POST?
+Esta ruta utiliza el método post para recibir
+información que el usuario envía desde el exterior. 
+El servidor toma ese dato usando req.body.mensaje y responde 
+automáticamente con un formato que confirma el estado y 
+devuelve el mismo mensaje para verificar que
+llegó bien. Esta ruta no se puede probar escribiendo en la URL
+
+2. ¿Para qué podría servir una aplicación comunitaria?
+Una app comunitaria podría reportar problemáticas del territorio, ser usada
+para que los habitantes de un municipio envíen reportes.
+También podría ser un buzón de sugerencias digital, para que los participantes
+de las diferentes iniciativas locales puedan enviar sus opiniones o ideas.
+Otro de los usos, podría ser registrar las necesidades en campo. Utilizarla como
+una herramienta para que los líderes registren alertas, cartografías sociales o 
+solicitudes de la población durante un diágnostico comunitario.

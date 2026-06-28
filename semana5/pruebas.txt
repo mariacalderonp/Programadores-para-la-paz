@@ -1,0 +1,14 @@
+Resultados de las pruebas de rutas - Semana 5
+1. http://localhost:3000
+Lo que ocurre: El navegador muestra el mensaje "Servidor funcionando 
+correctamente - Semana 5". Es la ruta principal (raíz) del servidor 
+usando el método GET para confirmar que el proyecto está encendido.
+2. http://localhost:3000/saludo
+Qué ocurre: El navegador muestra el texto "Hola comunidad". 
+Es una ruta estática que responde con un saludo fijo 
+específicamente cuando ingresamos a este enlace.
+3. http://localhost:3000/mensaje/juan
+Qué ocurre: El navegador cambia y muestra "Hola juan". 
+Es una ruta dinámica que utiliza un parámetro llamado ":nombre". 
+El servidor lee lo que escribamos al final de la URL (en este caso, "juan") 
+y lo une al saludo automáticamente.
