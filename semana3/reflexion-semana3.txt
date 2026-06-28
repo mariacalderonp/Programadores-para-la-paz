@@ -1,1 +1,10 @@
-
+¿Por qué es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git?
+la herramienta Git lo que permite es guardar los cambios que se realizan en los 
+archivos, carpetas, repositorios. 
+Cada cambio que se haga en el archivo, carpeta o repositorio o en
+cualquier otro elemento dentro de Github puede ser registrado con dicha herramienta,
+lo que permite generar una trazabilidad del modo, del tiempo, en el que se realizaron 
+los cambios.
+De igual manera permite trabajar en un mismo repositorio a un equipo de colaboradores y asi
+saber qué cambios realizó algunos de ellos. Por último, permite también dejar notas que
+explican detallamadamente los cambios realizados, permitiendo revertirlos.
