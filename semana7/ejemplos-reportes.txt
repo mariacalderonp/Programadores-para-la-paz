@@ -1,0 +1,12 @@
+Ejemplo 1:
+{
+  "tipo": "Recolección de residuos",
+  "descripcion": "Acumulación de basura en la esquina del parque principal, debido a que 
+  el camión no pasó"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Malla vial",
+  "descripcion": "Presencia de un hueco de dos metros de ancho por 10 centímetros de profundidad"
+}
