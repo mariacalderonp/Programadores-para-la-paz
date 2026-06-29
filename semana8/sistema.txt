@@ -1,0 +1,10 @@
+1. ¿Qué información muestra cada comando?
+Uname-a: muestra información detallada sobre el núcleo (kernel) del sistema operativo, incluye
+el nombre del sistema, la versión del kernel y la compilación y la arquitectura del hardware.
+Whoami: Muestra el nombre de usuario actual con el que se está operando en la terminal en ese momento
+2. ¿Por qué es útil conocer esta información al administrar un servidor?
+Conocer la versión del kernel y la arquitectura es muy importante para saber si un software o actualización
+será compatible con el servidor antes de instalarlo.
+Igualmente, el comando whoami es primordial para verificar si se tiene los privilegios necesarios para
+ejecutar ciertas tareas, evitando errores de permisos o acciones accidentales con cuentas equivocadas.
+Finalmente, en caso de fallos, ayuda a saber exactamente qué sistema y con qué usuario se está trabajando

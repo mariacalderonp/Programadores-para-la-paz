@@ -1,0 +1,4 @@
+1. No compartir datos personales
+2. No apuntar contraseñas preferiblemente memorizarlas, o usar un gestor de contraseñas seguro
+3. Compartimentar la información y separar la información sensible de la información general, limitando
+accesos a la información sensible

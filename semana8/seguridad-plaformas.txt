@@ -1,0 +1,6 @@
+Escribe 5 prácticas de seguridad que deberían aplicarse en una plataforma digital comunitaria:
+1) Implementación de cifrado de datos de extremo a extremo
+2) Gestión robusta de autenticación y contraseñas
+3) Anonimización de datos personales de los usuarios
+4) Monitoreo y registro constante de los accesos
+5) Actualización periódica de los parches de seguridad
