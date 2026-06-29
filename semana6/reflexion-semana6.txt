@@ -1,0 +1,8 @@
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada?
+para poder responder esta pregunta de manera amplia voy a utilizar un ejemplo: vamos a suponer que un nuevo alcalde de una ciudad 
+desea intervenir o arreglar todos los huecos que en su municipio o ciudad se encuentre. para ello va a utilizar un criterio que el criterio:
+es la gravedad del hueco. Así muchos ciudadanos comienzan a enviar la información de lo que consideran huecos entre "graves". muchos ciudadanos envían el mismo hueco muchas veces.
+otros envían huecos que les incomodan sin embargo son pequeños comparados con otros. así un mismo hueco puede llegar a tener desde un reporte, hasta 1000 reportes para el mismo hueco.
+como puede verse en este ejemplo de información no estructurada hay grandes problemas que generan cuellos de botella porque el personal va a tener que invertir muchísimo tiempo en revisar, clasificar y filtrar los datos antes de poder usarlos.
+por otro lado cuando la información llega estructurada permite que los sistemas procesen de inmediato sin necesidad de una revisión manual tan detallada. por otra parte esto permite la identificación de patrones creación de estadísticas y priorización 
+que de otra manera no sería posible.
