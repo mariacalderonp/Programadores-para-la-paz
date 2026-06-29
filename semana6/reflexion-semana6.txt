@@ -1,1 +1,9 @@
-
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada?
+Para responder esta pregunta voy a realizar un ejemplo para facilitarlo. un alcalde ha tomado la
+decisión de priorizar todos los huecos del municipio para tapar aquellos huecos que consideren
+graves y muy graves. La respuesta de la ciudadanía no se hace esperar: envía miles de reportes con lo que ellos consideran grave o muy grave. 
+El equipo de respuesta de análisis no sabe hacer qué hacer con tanta información, se dan cuenta que muchos de los datos están repetidos muchos de los huecos ya habían sido enviados. y algunos eran pequeñas grietas que no podrían considerarse como graves y mucho menos muy graves.
+Se dan cuenta que clasificar ordenar y reestructurar la información les va a tocar meses retrasando su agenda de acción solamente en el filtrado de los huecos repetidos.
+Esto pudo haberse evitado estructurando la información con: coordenadas o direcciones, tamaño del hueco, menor a un metro mayor a un metro, profundidad del hueco: menor a 3 cm entre 3 cm y 7 mayor a 7 cm. así la información de estas tres simples variables permitirían categorizar ubicación gravedad de manera sencilla.
+Este es solo un ejemplo de cómo la información estructurada facilita el análisis y la toma de decisión más rápida. disminuye el número de horas requerido para el análisis de información y permite dar una respuesta más rápida ante las problemáticas de la comunidad.
+Por lo tanto la información estructurada es en sí misma una herramienta que permite la toma de decisiones más allá del análisis de datos, agiliza el análisis de la información y reduce los tiempos de análisis requeridos. A la par que evita los cuellos de botella.
