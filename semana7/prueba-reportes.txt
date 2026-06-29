@@ -1,0 +1,19 @@
+Prueba con POST
+
+{
+  "mensaje": "Reporte registrado con éxito",
+  "id": 1
+}
+
+Prueba con GET
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+La petición con POST envía los datos desde el cliente hacia el servidor para almacenarlo
+La petición GET permite recuperar y visualizar la información almacenada en el servidor 
+en formato JSON
