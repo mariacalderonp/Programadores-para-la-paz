@@ -1,0 +1,10 @@
+1. Ejecutar node server.js 
+Al ejecutar el comando, aparece el mensaje configurado en código "Servidor ejecutándose en 
+puerto 3000"
+2. Al visitar la ruta /estado 
+El servidor procesa la solicitud y devuelve una respuesta en formato JSON con la siguiente información
+json
+{
+    "estado": "Servidor funcionando",
+    "servicio:" "API Comunitaria"
+}

@@ -1,0 +1,15 @@
+1) Sistema operativo: Es la capa de software fundamental que gestiona el hardware del computador y 
+los recursos del sistema. Permite que programas como Node.js se ejecuten al proporcionar 
+las instrucciones necesarias para procesar datos y administrar la memoria.
+2) Node.js: Es un entorno de ejecución de JavaScript que permite ejecutar código fuera del navegador, 
+directamente en el servidor. Su función es interpretar y procesar las instrucciones del archivo server.js 
+para crear aplicaciones de red eficientes.
+3) Aplicación server.js: Es el archivo principal donde se define la lógica de la aplicación y las 
+rutas que el servidor debe atender. Funciona como el cerebro de tu API, configurando cómo el 
+servidor responde a las solicitudes del usuario.
+4) Puerto: Es una "puerta" lógica numerada que permite que el servidor reciba y envíe información a 
+través de la red. En tu tarea, el puerto 3000 es el canal específico por el cual las solicitudes 
+externas llegan al código.
+5) Logs (Registros): Son los mensajes informativos, como Servidor ejecutándose en puerto 3000, que aparecen en la 
+terminal. Su función es permitir al administrador monitorear el estado del servidor y detectar 
+errores durante la ejecución.
