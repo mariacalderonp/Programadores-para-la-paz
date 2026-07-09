@@ -1,0 +1,3 @@
+Como ciudadano quiero crear un registro de emisiones de material particulado en mi comunidad, relacionado con actividad industrial de quema con fines de producción de energia
+Como encargado de los registros quiero recibir una alerta vía Telegram del reporte enviado por ciudadanos y poderlos revisar
+Como parte del equipo de expertos en calidad del aire y ambiente quiero consultar los resportes consolidados y/o indivividuales.
