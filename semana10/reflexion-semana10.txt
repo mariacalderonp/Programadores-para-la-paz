@@ -1,0 +1,10 @@
+¿Por qué las metodologías ágiles, la automatización y canales como Telegram pueden ayudar a organizar mejor una comunidad o un proceso de participación ciudadana?
+Las tecnologías agiles permiten la actualización y la adaptación a los cambios que requien los ciudadanos.
+Permite diseñar pequeños ciclos o avances a medida que ellos se requieran, así como escalar la infraestructura
+a medida que se requier. De igual forma permite evaluar en tiempos cortos cuales son los problemas 
+mas prioritarios mediante paramétros específico de acuerdo al proyecto que se desarrolle.
+Ya lo mencioné antes, pero quiero deternerme un poco más a hablar de la escalabilidad, puesto que es clave
+puesto que permite que una comunidad sea cocreadora del proceso y en la medida de requerirlo hacerlo más grande, robuzto o capaz.
+Por último, integrar Telegram permite la democratización del acceso, así como el seguimiento, por otro lado
+gracuas a las herramientas nativas de participación que permiten integrar una respuesta en tiempo real sin necesidad de pasar
+directamente por la plataforma.
