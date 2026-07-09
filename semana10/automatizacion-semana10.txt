@@ -1,0 +1,13 @@
+Automatización: Alerta de Calidad del Aire.
+
+¿Qué evento activa el flujo?
+El flujo se activa cuando los sensores de monitoreo de calidad del aire detectan que los niveles de material particulado (como PM_{2.5} o PM_{10}) superan los umbrales de seguridad establecidos previamente en el sistema de medición.
+
+¿Qué mensaje se enviaría a Telegram?
+El mensaje sería: "Alerta: Se ha registrado un incremento inusual en los niveles de calidad del aire en la zona de monitoreo. Acceda al panel de control para consultar las métricas detalladas y determinar las medidas de mitigación necesarias.".
+
+¿Qué información no debería enviarse por seguridad?
+Para proteger la integridad de los datos de investigación y la privacidad de las zonas monitoreadas, se deben excluir estrictamente:
+Coordenadas precisas: Ubicaciones exactas que puedan comprometer la seguridad de los equipos de medición o revelar información privada de predios específicos.
+Configuraciones técnicas: Parámetros de configuración de los sensores o claves de acceso a la red de datos del proyecto.
+Datos brutos no validados: Información técnica cruda que, al ser interpretada fuera de contexto, podría generar alertas falsas o interpretaciones erróneas por parte de terceros no autorizados.

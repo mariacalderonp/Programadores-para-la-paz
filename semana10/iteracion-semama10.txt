@@ -1,0 +1,10 @@
+¿Qué 2 tareas del backlog harías primero?
+1. la autenticación segura de usuarios
+2.  Formulario dinámico de geolocalización
+¿Por qué son las más importantes?
+Uno (1) es crucial por que:
+Es la base de la confianza. Permite registrar al ciudadano (evitando perfiles falsos) y le da la posibilidad de hacer un seguimiento del estado de su reporte.
+Dos (2) es muy importante:
+Permite saber donde se origina el reporte y hacer seguimiento con precisión de los reportes.
+¿Qué significa para ti que una tarea esté “terminada”?
+Una tarea está terminada cuando hacer lo que se requiere hacer, ya se realizaron pruebas y también quedo registrada en Git.
