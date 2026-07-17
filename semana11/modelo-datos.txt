@@ -1,0 +1,23 @@
+Entidad: Causa
+
+Campos principales:
+- id: 001
+- titulo: Recuperación del Parque Central
+- descripcion: Jornada comunitaria para limpiar, sembrar árboles y reparar los juegos infantiles del parque.
+- categoría: medio ambiente
+- fecha: 15/07/2026
+
+Propósito:
+Guardar las causas comunitarias que serán visibles en la plataforma para que los ciudadanos puedan conocerlas y apoyarlas.
+
+
+Entidad: Apoyo
+
+Campos principales: 
+- id: 001
+- causa_id: 001
+- usuario: Luis Perez
+- fecha: 15/07/2026
+- Comentario: "Estoy dispuesto a participar en la jornada de limpieza."
+
+Propósito: Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación ciudadana.

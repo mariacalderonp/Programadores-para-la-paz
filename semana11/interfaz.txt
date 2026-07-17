@@ -1,0 +1,9 @@
+La plataforma tendría una pantalla principal donde se muestren todas las causas comunitarias 
+organizadas en tarjetas con su título, una breve descripción y la fecha de publicación. 
+En la parte superior habría un formulario para registrar una nueva causa, 
+con campos para el nombre de la iniciativa, la descripción y la categoría. 
+Cada tarjeta incluiría un botón llamado "Apoyar esta causa", 
+que permitiría registrar el respaldo del usuario con un solo clic. 
+Junto al botón aparecería un contador actualizado con el número de apoyos recibidos. 
+El diseño sería sencillo, intuitivo y accesible, mostrando únicamente la información 
+necesaria para participar, sin revelar datos personales o sensibles de los usuarios.
