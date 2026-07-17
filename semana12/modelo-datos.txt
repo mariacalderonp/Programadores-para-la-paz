@@ -1,0 +1,29 @@
+REGISTROS EN LA TABLA "Causa":
+
+id: 101
+titulo: "Reparación de luminarias en el Parque Principal"
+descripcion: "Solicitamos el cambio de bombillas del parque central de Zarzal ya que la falta de luz genera inseguridad en las noches."
+fecha: 2026-07-16 14:30:00
+
+id: 102
+titulo: "Implementación de canecas de reciclaje en la Comuna 3"
+descripcion: "Petición para instalar contenedores de basura clasificada en los puntos críticos del barrio para mitigar la contaminación."
+fecha: 2026-07-16 16:15:20
+
+
+REGISTROS EN LA TABLA "Apoyo" (Asociados a la Causa 101):
+
+id: 1
+causa_id: 101  <-- (Apoya a: Reparación de luminarias en el Parque Principal)
+nombre: "Luis Perez"
+fecha: 2026-07-16 15:05:12
+
+id: 2
+causa_id: 101  <-- (Apoya a: Reparación de luminarias en el Parque Principal)
+nombre: "Juan Camilo Pérez"
+fecha: 2026-07-16 15:20:45
+
+id: 3
+causa_id: 102  <-- (Apoya a: Implementación de canecas de reciclaje en la Comuna 3)
+nombre: "Diana Marcela Gómez"
+fecha: 2026-07-16 16:40:10

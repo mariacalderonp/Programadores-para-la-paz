@@ -1,0 +1,20 @@
+AUTOMATIZACION - PETICION EN 3 CLICS
+
+Herramienta seleccionada: Telegram integrado con n8n
+
+Evento que activa la automatizacion:
+Registro exitoso de una nueva causa en la plataforma web. 
+Un webhook en n8n detecta cuando se guarda una nueva causa en la base de datos y 
+dispara una alerta automatica a un canal de Telegram.
+
+Mensaje que se envia:
+Nueva causa comunitaria creada.
+Titulo: {titulo_de_la_causa}
+Descripcion: {resumen_de_la_descripcion}
+Fecha de creacion: {fecha_creacion}
+Ingresa aqui para apoyar esta iniciativa con un solo clic: {enlace_a_la_causa}
+
+Informacion que no debe enviarse por seguridad:
+Por proteccion de datos personales, bajo ninguna circunstancia se enviaran datos de 
+identificacion como cedulas, numeros de telefono personales, correos electronicos, 
+direcciones de domicilio exactas o comentarios privados y sensibles de los usuarios.

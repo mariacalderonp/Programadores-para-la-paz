@@ -1,0 +1,14 @@
+1. Un ciudadano ingresa a la plataforma y redacta una petición o causa comunitaria completando un formulario sencillo.
+
+2. El sistema registra la petición en la base de datos y le asigna un estado "Activo" para que sea visible públicamente.
+
+3. Otros ciudadanos ingresan al sitio web, buscan la causa de su interés y le dan clic al botón "Apoyar" para sumar su firma digital.
+
+4. El sistema contabiliza en tiempo real los apoyos recibidos y actualiza una barra de progreso que muestra cuántas firmas faltan 
+para alcanzar la meta.
+
+5. Una vez que se alcanza el objetivo de apoyos, el sistema recopila automáticamente los datos de la 
+causa y de los firmantes para generar un documento PDF formal de la petición.
+
+6. El sistema envía de forma automatizada el documento PDF generado al correo electrónico de la 
+entidad pública o autoridad competente y notifica a los ciudadanos el envío.
